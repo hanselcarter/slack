@@ -4,7 +4,7 @@ import "firebase/database";
 import "firebase/storage";
 
 var config = {
-  apiKey: "AIzaSyDTqtrg51fIH6RAR-ikx3K3GUZhvnxA910",
+  apiKey: "AIzaS_YOURAPIKEY",
   authDomain: "expens-9353e.firebaseapp.com",
   databaseURL: "https://expens-9353e.firebaseio.com",
   projectId: "expens-9353e",
